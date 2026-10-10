@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "End-to-end and API test automation for a flight booking web app, built with Playwright and TypeScript.",
   "author": "Islam Hassan",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "private": true,
   "scripts": {
     "test": "playwright test",
